@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on my PhD in Intelligent Transportation at Chang'an University.
+- 🌱 My interest is the application of AI in transportation, especially in highway (civil engineering).
+
 <!--
 **CHDyshli/CHDyshli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
